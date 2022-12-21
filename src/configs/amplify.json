@@ -1,0 +1,7 @@
+{
+	"Auth": {
+		"region": "us-east-1",
+		"userPoolId": "us-east-1_NVPBjMKzp",
+		"userPoolWebClientId": "76c2ecjjmmelpn453df1avukrj"
+	}
+}
